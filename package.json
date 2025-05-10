@@ -1,8 +1,8 @@
 {
-  "name": "nuxt-app",
+  "name": "Valeanu Auto",
   "version": "1.0.0",
   "private": true,
-  "description": "Upwind - Nuxt Js Landing Page Template",
+  "description": "Valeanu Auto",
   "type": "module",
   "scripts": {
     "build": "nuxt build",
