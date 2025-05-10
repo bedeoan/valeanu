@@ -42,28 +42,16 @@
                 <div class="navigation lg_992:order-1 lg_992:flex" id="menu-collapse" :class="{hidden : !toggle}">
                     <ul class="navbar-nav nav-light" id="navbar-navlist">
                         <li class="nav-item active home">
-                            <a class="nav-link" href="#home">Acasa</a>
+                            <a @click="toggle = !toggle" class="nav-link" href="#home">Acasa</a>
                         </li>
                         <li class="nav-item about">
-                            <a class="nav-link" href="#about">Despre noi</a>
+                            <a @click="toggle = !toggle" class="nav-link" href="#about">Despre noi</a>
                         </li>
                         <li class="nav-item features">
-                            <a class="nav-link" href="#features">Servicii</a>
+                            <a @click="toggle = !toggle" class="nav-link" href="#features">Servicii</a>
                         </li>
-                        <!-- <li class="nav-item portfolio">
-                            <a class="nav-link" href="#portfolio">Portfolio</a>
-                        </li>
-                        <li class="nav-item testi">
-                            <a class="nav-link" href="#testi">Review</a>
-                        </li>
-                        <li class="nav-item pricing">
-                            <a class="nav-link" href="#pricing">Pricing</a>
-                        </li>
-                        <li class="nav-item blog">
-                            <a class="nav-link" href="#blog">Blog</a>
-                        </li> -->
                         <li class="nav-item contact">
-                            <a class="nav-link" href="#contact">Contact</a>
+                            <a @click="toggle = !toggle" class="nav-link" href="#contact">Contact</a>
                         </li>                       
                     </ul>
                 </div>

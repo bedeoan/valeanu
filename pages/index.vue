@@ -17,7 +17,7 @@
                 <p class="text-white opacity-50 mb-0 max-w-2xl text-lg">Programează‑ți verificarea și beneficiază de expertiza noastră în I.T.P. , mecanică și management profesionist de transport.</p>
 
                 <div class="relative mt-10">
-                    <a href=""
+                    <a href="https://rezervari.app/itp" target="_blank"
                         class="btn bg-orange-600 hover:bg-orange-700 border-orange-600 hover:border-orange-700 text-white rounded-md">PROGRAMARE I.T.P.</a>
                 </div>
             </div>
