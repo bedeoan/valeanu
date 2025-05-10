@@ -4,13 +4,13 @@ WORKDIR /app
 
 # 1️⃣ only copy manifests & lock, then install
 COPY package.json yarn.lock ./
-RUN yarn install --frozen-lockfile               # or: npm ci
+RUN yarn install --frozen-lockfile               
 
 # 2️⃣ now copy the rest of the source (but never node_modules!)
 COPY . .
 
 # 3️⃣ make your Nuxt production bundle
-RUN yarn build                                   # or: npm run build
+RUN yarn build                                   
 
 # ---------- runtime stage ----------
 FROM node:18-alpine

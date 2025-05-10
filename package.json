@@ -1,8 +1,8 @@
 {
-  "name": "Valeanu Auto",
+  "name": "Valeanu_Auto",
   "version": "1.0.0",
   "private": true,
-  "description": "Valeanu Auto",
+  "description": "Valeanu_Auto",
   "type": "module",
   "scripts": {
     "build": "nuxt build",
@@ -20,7 +20,7 @@
     "swiper": "^11.0.7",
     "tiny-slider": "^2.9.4",
     "vue": "^3.4.21",
-    "vue-countup-v3": "^1.4.1",
+    "vue-countup-v3": "^1.4.2",
     "vue-easy-lightbox": "^1.19.0",
     "vue-router": "^4.0.13",
     "vue-typewriter-effect": "^1.0.1"
