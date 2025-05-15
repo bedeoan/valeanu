@@ -38,7 +38,7 @@
                         <p class="text-slate-400 mt-3">{{ datas[1].desc }}</p>
 
                         <div class="mt-5">
-                            <a href=""
+                            <a @click="callNow()"
                                 class="btn btn-link hover:text-orange-600 dark:hover:text-orange-600 after:bg-orange-600 dark:text-white transition duration-500">Suna acum<i class="uil uil-arrow-right"></i></a>
                         </div>
                     </div>
@@ -57,7 +57,7 @@
                         <p class="text-slate-400 mt-3">{{ datas[2].desc }}</p>
 
                         <div class="mt-5">
-                            <a href=""
+                            <a @click="callNow()"
                                 class="btn btn-link hover:text-orange-600 dark:hover:text-orange-600 after:bg-orange-600 dark:text-white transition duration-500">Suna acum <i class="uil uil-arrow-right"></i></a>
                         </div>
                     </div>
@@ -122,7 +122,11 @@ export default {
             ]
         }
     },
-
+    methods: {
+        callNow() {
+            window.location.href = "tel:+40749030964";
+        }
+    }
 
 }
 </script>

@@ -24,13 +24,13 @@
                                     Valeanu Auto SRL, este o firmă care deține:
                                 </div>
                                 <div>
-                                    -o Stație I.T.P. pentru autoturisme,
+                                    -Stație I.T.P. pentru autoturisme
                                 </div>
                                 <div>
-                                    - un Service Auto - autorizat R.A.R
+                                    -Service Auto - autorizat R.A.R
                                 </div>
                                 <div>
-                                    -Servicii profesioniste de Manager Transport Marfa.
+                                    -Ofera Servicii profesionale de Manager Transport Marfa.
                                 </div>
                                 <div class="mt-4">
                                     In cadrul atelierului autorizat rar:
