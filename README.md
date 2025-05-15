@@ -82,7 +82,13 @@ ora 16.00 luni.
 inca 1 ora -2  inainte.
 sambata 10 mai - 4 ore de la 8 - 12.
 ---
-
+sambata mai - 1 ore  16-17
+total:7 ore - 1.400 lei.
+-----
+15 mai - 1 ora
+----
+8*2= 16 ore.
+---
 todo site.
 - [ ] 1. Adaugat un buton de logout in header.
 

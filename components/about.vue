@@ -19,13 +19,22 @@
                             <h6 class="text-orange-600 text-base font-medium uppercase mb-2">Cine suntem ?</h6>
                             <h3 class="mb-4 md:text-2xl text-xl font-medium dark:text-white">Compania noastra</h3>
 
-                            <p class="text-slate-400 dark:text-slate-300 max-w-2xl mx-auto">
+                            <div class="text-slate-400 dark:text-slate-300 max-w-2xl mx-auto">
                                 <div class="mb-4">
-                                    Service Auto Valeanu Auto este un service auto autorizat RAR, specializat în efectuarea inspecției tehnice periodice (ITP) pentru toate tipurile de vehicule rutiere.
+                                    Valeanu Auto SRL, este o firmă care deține:
                                 </div>
-                                    <div>
-                                        In cadrul atelierului autorizat RAR, efectuam următoarele activități de reparare ale vehiculelor rutiere:
-                                    </div>
+                                <div>
+                                    -o Stație I.T.P. pentru autoturisme,
+                                </div>
+                                <div>
+                                    - un Service Auto - autorizat R.A.R
+                                </div>
+                                <div>
+                                    -Servicii profesioniste de Manager Transport Marfa.
+                                </div>
+                                <div class="mt-4">
+                                    In cadrul atelierului autorizat rar:
+                                </div>
 
                                     <div>
                                         -Motor, sisteme auxiliare şi componente;
@@ -48,10 +57,7 @@
                                     <div>
                                         -Manager Transport Marfă 
                                     </div>
-                                </p>
-                            <div class="relative mt-10">
-                                <a href="#portfolio" class="btn bg-orange-600 hover:bg-orange-700 border-orange-600 hover:border-orange-700 text-white rounded-md">SUNA ACUM</a>
-                            </div>
+                                </div>
                         </div>
                     </div><!--end col-->
                 </div><!--end grid-->

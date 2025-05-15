@@ -1,20 +1,8 @@
 <template>
 
     <!-- Start -->
-    <section class="relative md:py-24 py-16" id="features">
+    <section class="relative" id="features">
         <div class="container lg mx-auto">
-            <div class="grid grid-cols-1 lg:grid-cols-2 md:grid-cols-2 pb-8 items-center">
-                <div>
-                    <h6 class="text-orange-600 text-base font-medium uppercase mb-2">Servicile noastre</h6>
-                    <h3 class="mb-4 md:text-2xl text-xl font-semibold dark:text-white md:mb-0">Solutia perfecta pentru
-                        <br> Businessul tau de transport</h3>
-                </div>
-
-                <div>
-                    <p class="text-slate-400 dark:text-slate-300 max-w-xl">Ofer servicii profesionale de manager de transport marfă, asigurând respectarea tuturor cerințelor legale și operaționale. De asemenea, ofer suport complet pentru obținerea licenței comunitare, facilitând întregul proces pentru ca afacerea dumneavoastră să fie pregătită de drum.</p>
-                </div>
-            </div><!--end grid-->
-
             <div class="grid grid-cols-1 lg:grid-cols-3 md:grid-cols-2 gap-6">
                 <div :class="datas[0].class">
                     <div
@@ -76,7 +64,6 @@
                 </div>
             </div><!--end grid-->
         </div><!--end container-->
-
     </section><!--end section-->
     <!-- End -->
 
@@ -96,14 +83,14 @@ export default {
                     icon: 'uil uil-adjust-circle',
                     name: 'I.T.P',
                     src: 'assets/images/car-black-shape-over-wheels-svgrepo-com.svg',
-                    desc: 'Asigură‑ți ITP‑ul mecanic la timp și creaza o rezervare online.',
+                    desc: 'Efectuam servicii ITP la autoturisme și camionete până în 3,5 tone.Puteți să vă programați online aici, sau telefonic la numărul de tel. 0749.030.964.',
                     class: 'features p-6 hover:shadow-xl hover:shadow-slate-100 dark:hover:shadow-slate-800 transition duration-500 rounded-3xl mt-8'
                 },
                 {
                     icon: 'uil uil-circuit',
                     name: 'SERVICE AUTO',
                     src: 'assets/images/car-black-shape-over-wheels-svgrepo-com.svg',
-                    desc: 'Facem service auto pentru toate tipurile de autovehicule, inclusiv camioane.',
+                    desc: 'Motor, sisteme auxiliare, Sisteme de transmisie, Sistemul de rulare, Sistemul de direcție, Întreținerea vehiculelor rutiere',
                     class: 'features p-6 shadow-xl shadow-slate-100 dark:shadow-slate-800 transition duration-500 rounded-3xl mt-8'
                 },
                 {

@@ -14,11 +14,11 @@
                         :strings='["I.T.P.", "SERVICE", "MANAGER DE TRANSPORT"]' />
                 </h4>
 
-                <p class="text-white opacity-50 mb-0 max-w-2xl text-lg">Programează‑ți verificarea și beneficiază de expertiza noastră în I.T.P. , mecanică și management profesionist de transport.</p>
+                <p class="text-white opacity-50 mb-0 max-w-2xl text-lg">Programează-ti verificarea la ITP și vei beneficia de întreaga expertiza și profesionalismul nostru.</p>
 
                 <div class="relative mt-10">
                     <a href="https://rezervari.app/itp" target="_blank"
-                        class="btn bg-orange-600 hover:bg-orange-700 border-orange-600 hover:border-orange-700 text-white rounded-md">PROGRAMARE I.T.P.</a>
+                        class="btn bg-orange-600 hover:bg-orange-700 border-orange-600 hover:border-orange-700 text-white rounded-md">PROGRAMARE I.T.P. ONLINE</a>
                 </div>
             </div>
         </div><!--end container-->
