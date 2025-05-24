@@ -2,16 +2,22 @@
     <!-- Start Footer -->
  <footer class="py-8 bg-slate-800 dark:bg-gray-900">
             <div class="container">
-                <div class="grid grid-cols-12 items-center">
-                    <div class="col-span-3">
-                        <a href="#" class="logo-footer">
-                            <img src="assets/images/logo-light.png" class="ms-0 mx-auto" alt="">
+                <div class="grid md:grid-cols-12 items-center">
+                    <div class="md:col-span-3">
+                        <a href="#">
+                            <!-- <img src="assets/images/logo-light.png" class="md:ms-0 mx-auto" alt=""> -->
                         </a>
                     </div>
 
                     <div class="md:col-span-5 md:mt-0 mt-8">
                         <div class="text-center">
-                            <!-- <p class="text-gray-400">© {{ date }} Upwind. Design & Develop with <i class="mdi mdi-heart text-orange-700"></i> by <a href="https://shreethemes.in/" target="_blank" class="text-reset">Shreethemes</a>.</p> -->
+                           <img src="assets/images/logo-light.png" class="md:ms-0 mx-auto" alt="">
+                        </div>
+                        <div class="text-white text-center">
+                            C.U.I.: 50202383
+                        </div>
+                        <div class="text-white text-center">
+                            VALEANU AUTO SRL
                         </div>
                     </div>
 
