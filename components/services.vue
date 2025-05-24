@@ -16,9 +16,14 @@
                     datas[0].name }}</a>
                         <p class="text-slate-400 mt-3">{{ datas[0].desc }}</p>
 
+                         
                         <div class="mt-5">
-                            <a href=""
-                                class="btn btn-link hover:text-orange-600 dark:hover:text-orange-600 after:bg-orange-600 dark:text-white transition duration-500">Creaza programare  <i class="uil uil-arrow-right"></i></a>
+                            <a @click="callNow()"
+                                class="btn hover:text-orange-600 dark:hover:text-orange-600 after:bg-orange-600 dark:text-white transition duration-500">Suna acum<i class="uil uil-arrow-right"></i></a>
+                        </div>
+                        <div class="mt-5">
+                            <a href="https://rezervari.app/itp"
+                                class="btn hover:text-orange-600 dark:hover:text-orange-600 after:bg-orange-600 dark:text-white transition duration-500">Faceti o programare   <i class="uil uil-arrow-right"></i></a>
                         </div>
                     </div>
                 </div>
@@ -83,21 +88,21 @@ export default {
                     icon: 'uil uil-adjust-circle',
                     name: 'I.T.P',
                     src: 'assets/images/car-black-shape-over-wheels-svgrepo-com.svg',
-                    desc: 'Efectuam servicii ITP la autoturisme și camionete până în 3,5 tone.Puteți să vă programați online aici, sau telefonic la numărul de tel. 0749.030.964.',
+                    desc: 'Efectuam servicii ITP la autoturisme și camionete până în 3,5 tone.Puteți să vă programați online, sau telefonic',
                     class: 'features p-6 hover:shadow-xl hover:shadow-slate-100 dark:hover:shadow-slate-800 transition duration-500 rounded-3xl mt-8'
                 },
                 {
                     icon: 'uil uil-circuit',
                     name: 'SERVICE AUTO',
                     src: 'assets/images/car-black-shape-over-wheels-svgrepo-com.svg',
-                    desc: 'Motor, sisteme auxiliare, Sisteme de transmisie, Sistemul de rulare, Sistemul de direcție, Întreținerea vehiculelor rutiere',
+                    desc: 'Motor, sisteme auxiliare, sistemul de transmisie, sistemul de rulare, sistemul de direcție, întreținerea vehiculelor rutiere',
                     class: 'features p-6 shadow-xl shadow-slate-100 dark:shadow-slate-800 transition duration-500 rounded-3xl mt-8'
                 },
                 {
                     icon: 'uil uil-fire',
                     name: 'MANAGER TRANSPORT',
                     src: 'assets/images/car-black-shape-over-wheels-svgrepo-com.svg',
-                    desc: 'Asiguram serviciu de manager transport marfă, respectând toate cerințele legale și operaționale.',
+                    desc: 'Asigurăm servicii de manager transport marfă, respectând toate cerințele legale și operaționale.Ajutăm la obținerea licenței comunitare si copiilor conforme',
                     class: 'features p-6 hover:shadow-xl hover:shadow-slate-100 dark:hover:shadow-slate-800 transition duration-500 rounded-3xl mt-8'
 
                 }

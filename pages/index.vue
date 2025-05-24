@@ -29,7 +29,7 @@
     <!-- <portfolio /> -->
     <!-- <client /> -->
     <!-- <pricing /> -->
-    <team />
+    <!-- <team /> -->
     <!-- <blog /> -->
     <getintouch />
     <fooTer />

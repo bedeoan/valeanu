@@ -2,10 +2,10 @@
     <!-- Start Footer -->
  <footer class="py-8 bg-slate-800 dark:bg-gray-900">
             <div class="container">
-                <div class="grid md:grid-cols-12 items-center">
-                    <div class="md:col-span-3">
+                <div class="grid grid-cols-12 items-center">
+                    <div class="col-span-3">
                         <a href="#" class="logo-footer">
-                            <img src="assets/images/logo-light.png" class="md:ms-0 mx-auto" alt="">
+                            <img src="assets/images/logo-light.png" class="ms-0 mx-auto" alt="">
                         </a>
                     </div>
 

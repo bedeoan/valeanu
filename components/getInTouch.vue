@@ -13,7 +13,7 @@
     <!-- Right side (Map) becomes bottom on mobile -->
     <div class="lg:w-2/3 w-full">
         <div class="p-6 rounded-md shadow bg-white dark:bg-slate-900">
-            <a href="https://www.google.com/maps/place/47%C2%B056'37.5%22N+23%C2%B054'34.8%22E/@47.943753,23.909656,17z/data=!3m1!4b1!4m4!3m3!8m2!3d47.943753!4d23.909656?entry=ttu&g_ep=EgoyMDI1MDUwNy4wIKXMDSoJLDEwMjExNDU1SAFQAw%3D%3D">
+            <a href="https://maps.app.goo.gl/BDVvp3rrCCFxrBqw7">
                 <img src="assets/images/map.png" />
             </a>
         </div>
@@ -28,7 +28,7 @@
                 </div>
                 <div class="flex-1 ms-6">
                     <h5 class="text-lg dark:text-white mb-2 font-medium">Telefon</h5>
-                    <a href="tel:+152534-468-854" class="text-slate-400">+40 749 030 964</a>
+                    <a @click="callNow()" class="text-slate-400">+40 749 030 964</a>
                 </div>
             </div>
 
@@ -63,7 +63,11 @@
 
 <script>
     export default {
-        
+        methods: {
+            callNow() {
+                window.location.href = "tel:+40749030964";
+            }
+        }
     }
 </script>
 
