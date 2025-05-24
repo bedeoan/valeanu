@@ -36,8 +36,8 @@
 
                                                 <div class="mb-4">
                                                     <div class="flex items-center mb-0">
-                                                        <input class="form-checkbox rounded border-gray-200 dark:border-gray-800 text-orange-600 focus:border-orange-300 focus:ring focus:ring-offset-0 focus:ring-orange-200 focus:ring-opacity-50 me-2" type="checkbox" value="" id="AcceptT&C">
-                                                        <label class="form-checkbox-label text-slate-400" for="AcceptT&C">I Accept <a href="" class="text-orange-600">Terms And Condition</a></label>
+                                                        <input class="form-checkbox rounded border-gray-200 dark:border-gray-800 text-yellow-600 focus:border-orange-300 focus:ring focus:ring-offset-0 focus:ring-orange-200 focus:ring-opacity-50 me-2" type="checkbox" value="" id="AcceptT&C">
+                                                        <label class="form-checkbox-label text-slate-400" for="AcceptT&C">I Accept <a href="" class="text-yellow-600">Terms And Condition</a></label>
                                                     </div>
                                                 </div>
 

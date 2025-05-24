@@ -18,7 +18,7 @@
 
                 <div class="relative mt-10">
                     <a href="https://rezervari.app/itp" target="_blank"
-                        class="btn bg-orange-600 hover:bg-orange-700 border-orange-600 hover:border-orange-700 text-white rounded-md">PROGRAMARE I.T.P. ONLINE</a>
+                        class="btn bg-yellow-600 hover:bg-orange-700 border-orange-600 hover:border-orange-700 text-white rounded-md">PROGRAMARE I.T.P. ONLINE</a>
                 </div>
             </div>
         </div><!--end container-->

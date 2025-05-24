@@ -16,7 +16,7 @@
               alt=""
             />
             <!-- <div class="absolute bottom-2/4 translate-y-2/4 start-0 end-0 text-center">
-                                <a  @click="toggle" data-type="youtube" data-id="S_CGed6E610" class="cursor-pointer lightbox cursor-pointer size-20 rounded-full shadow-lg shadow-slate-100 dark:shadow-slate-800 inline-flex items-center justify-center bg-white dark:bg-slate-900 text-orange-600">
+                                <a  @click="toggle" data-type="youtube" data-id="S_CGed6E610" class="cursor-pointer lightbox cursor-pointer size-20 rounded-full shadow-lg shadow-slate-100 dark:shadow-slate-800 inline-flex items-center justify-center bg-white dark:bg-slate-900 text-yellow-600">
                                     <i class="mdi mdi-play inline-flex items-center justify-center text-2xl"></i>
                                 </a>
                             </div> -->
@@ -26,7 +26,7 @@
 
         <div class="lg:col-span-7">
           <div class="lg:ms-7">
-            <h6 class="text-orange-600 text-base font-medium uppercase mb-2">
+            <h6 class="text-yellow-600 text-base font-medium uppercase mb-2">
               Cine suntem ?
             </h6>
             <h3 class="mb-4 md:text-2xl text-xl font-medium dark:text-white">

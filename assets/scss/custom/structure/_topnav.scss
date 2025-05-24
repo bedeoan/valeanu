@@ -8,11 +8,11 @@
       .navbar-nav {
           @apply mt-4 flex flex-row overflow-y-scroll h-24;
           .nav-link {
-              @apply block p-3 text-slate-900 hover:text-orange-600 dark:text-white/60 dark:hover:text-white;
+              @apply block p-3 text-slate-900 hover:text-yellow-600 dark:text-white/60 dark:hover:text-white;
           }
           .active {
               .nav-link {
-                  @apply text-orange-600 dark:text-white;
+                  @apply text-yellow-600 dark:text-white;
               }
           }
       }
@@ -112,17 +112,17 @@
               }
               .active {
                   .nav-link {
-                      @apply text-orange-600;
+                      @apply text-yellow-600;
                   }
               }
 
               &.nav-light {
                   .nav-link {
-                      @apply text-slate-900 hover:text-orange-600 dark:text-white/60 dark:hover:text-white;
+                      @apply text-slate-900 hover:text-yellow-600 dark:text-white/60 dark:hover:text-white;
                   }
                   .active {
                       .nav-link {
-                          @apply text-orange-600 dark:text-white;
+                          @apply text-yellow-600 dark:text-white;
                       }
                   }
               }
@@ -142,7 +142,7 @@
               }
               .active {
                   .nav-link {
-                      @apply text-orange-600;
+                      @apply text-yellow-600;
                   }
               }
               .menu-social {

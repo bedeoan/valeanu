@@ -31,7 +31,7 @@
 
                                                 <div class="flex justify-between mb-4">
                                                     <div class="flex items-center mb-0">
-                                                        <input class="form-checkbox rounded border-gray-200 dark:border-gray-800 text-orange-600 focus:border-orange-300 focus:ring focus:ring-offset-0 focus:ring-orange-200 focus:ring-opacity-50 me-2" type="checkbox" value="" id="RememberMe">
+                                                        <input class="form-checkbox rounded border-gray-200 dark:border-gray-800 text-yellow-600 focus:border-orange-300 focus:ring focus:ring-offset-0 focus:ring-orange-200 focus:ring-opacity-50 me-2" type="checkbox" value="" id="RememberMe">
                                                         <label class="form-checkbox-label text-slate-400" for="RememberMe">Remember me</label>
                                                     </div>
                                                     <p class="text-slate-400 mb-0"><NuxtLink to="/auth/reset-password" class="text-slate-400">Forgot password ?</NuxtLink></p>

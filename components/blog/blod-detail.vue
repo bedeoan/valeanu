@@ -63,7 +63,7 @@
                                 alt="">
 
                             <a href=""
-                                class="text-lg font-medium hover:text-orange-600 transition-all duration-500 ease-in-out h5">Cristina
+                                class="text-lg font-medium hover:text-yellow-600 transition-all duration-500 ease-in-out h5">Cristina
                                 Romsey</a>
                             <p class="text-slate-400">Content Writer</p>
                         </div>
@@ -110,12 +110,12 @@
 
                     <div class="content p-6">
                         <NuxtLink to="/blog-detail"
-                            class="text-lg hover:text-orange-600 dark:text-white dark:hover:text-orange-600 transition-all duration-500 ease-in-out font-medium">{{ item.title }}</NuxtLink>
+                            class="text-lg hover:text-yellow-600 dark:text-white dark:hover:text-yellow-600 transition-all duration-500 ease-in-out font-medium">{{ item.title }}</NuxtLink>
                         <p class="text-slate-400 mt-3">{{ item.desc }}</p>
 
                         <div class="mt-5">
                             <NuxtLink to="/blog-detail"
-                                class="btn btn-link hover:text-orange-600 dark:hover:text-orange-600 after:bg-orange-600 dark:text-white transition duration-500">Read
+                                class="btn btn-link hover:text-yellow-600 dark:hover:text-yellow-600 after:bg-orange-600 dark:text-white transition duration-500">Read
                                 More <i class="uil uil-arrow-right"></i></NuxtLink>
                         </div>
                     </div>

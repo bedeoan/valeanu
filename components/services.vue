@@ -6,24 +6,24 @@
             <div class="grid grid-cols-1 lg:grid-cols-3 md:grid-cols-2 gap-6">
                 <div :class="datas[0].class">
                     <div
-                        class="size-20 bg-orange-600/5 text-orange-600 rounded-xl text-3xl flex align-middle justify-center items-center shadow-sm">
+                        class="size-20 bg-orange-600/5 text-yellow-600 rounded-xl text-3xl flex align-middle justify-center items-center shadow-sm">
                         <img src="assets/images/car-black-shape-over-wheels-svgrepo-com.svg" /> 
                     </div>
 
                     <div class="content mt-7">
                         <a href=""
-                            class="text-lg hover:text-orange-600 dark:text-white dark:hover:text-orange-600 transition-all duration-500 ease-in-out font-medium">{{
+                            class="text-lg hover:text-yellow-600 dark:text-white dark:hover:text-yellow-600 transition-all duration-500 ease-in-out font-medium">{{
                     datas[0].name }}</a>
                         <p class="text-slate-400 mt-3">{{ datas[0].desc }}</p>
 
                          
                         <div class="mt-5">
                             <a @click="callNow()"
-                                class="btn hover:text-orange-600 dark:hover:text-orange-600 after:bg-orange-600 dark:text-white transition duration-500">Suna acum<i class="uil uil-arrow-right"></i></a>
+                                class="btn hover:text-yellow-600 dark:hover:text-yellow-600 after:bg-orange-600 dark:text-white transition duration-500">Suna acum<i class="uil uil-arrow-right"></i></a>
                         </div>
                         <div class="mt-5">
                             <a href="https://rezervari.app/itp"
-                                class="btn hover:text-orange-600 dark:hover:text-orange-600 after:bg-orange-600 dark:text-white transition duration-500">Faceti o programare   <i class="uil uil-arrow-right"></i></a>
+                                class="btn hover:text-yellow-600 dark:hover:text-yellow-600 after:bg-orange-600 dark:text-white transition duration-500">Faceti o programare   <i class="uil uil-arrow-right"></i></a>
                         </div>
                     </div>
                 </div>
@@ -31,39 +31,39 @@
 
                 <div :class="datas[1].class">
                     <div
-                        class="size-20 bg-orange-600/5 text-orange-600 rounded-xl text-3xl flex align-middle justify-center items-center shadow-sm">
+                        class="size-20 bg-orange-600/5 text-yellow-600 rounded-xl text-3xl flex align-middle justify-center items-center shadow-sm">
                         
                         <img src="assets/images/car-repair-svgrepo-com.svg" /> 
                     </div>
 
                     <div class="content mt-7">
                         <a href=""
-                            class="text-lg hover:text-orange-600 dark:text-white dark:hover:text-orange-600 transition-all duration-500 ease-in-out font-medium">{{
+                            class="text-lg hover:text-yellow-600 dark:text-white dark:hover:text-yellow-600 transition-all duration-500 ease-in-out font-medium">{{
                     datas[1].name }}</a>
                         <p class="text-slate-400 mt-3">{{ datas[1].desc }}</p>
 
                         <div class="mt-5">
                             <a @click="callNow()"
-                                class="btn btn-link hover:text-orange-600 dark:hover:text-orange-600 after:bg-orange-600 dark:text-white transition duration-500">Suna acum<i class="uil uil-arrow-right"></i></a>
+                                class="btn btn-link hover:text-yellow-600 dark:hover:text-yellow-600 after:bg-orange-600 dark:text-white transition duration-500">Suna acum<i class="uil uil-arrow-right"></i></a>
                         </div>
                     </div>
                 </div>
 
                 <div :class="datas[2].class">
                     <div
-                        class="size-20 bg-orange-600/5 text-orange-600 rounded-xl text-3xl flex align-middle justify-center items-center shadow-sm">
+                        class="size-20 bg-orange-600/5 text-yellow-600 rounded-xl text-3xl flex align-middle justify-center items-center shadow-sm">
                         <img src="assets/images/truck-front-svgrepo-com.svg" /> 
                     </div>
 
                     <div class="content mt-7">
                         <a href=""
-                            class="text-lg hover:text-orange-600 dark:text-white dark:hover:text-orange-600 transition-all duration-500 ease-in-out font-medium">{{
+                            class="text-lg hover:text-yellow-600 dark:text-white dark:hover:text-yellow-600 transition-all duration-500 ease-in-out font-medium">{{
                     datas[2].name }}</a>
                         <p class="text-slate-400 mt-3">{{ datas[2].desc }}</p>
 
                         <div class="mt-5">
                             <a @click="callNow()"
-                                class="btn btn-link hover:text-orange-600 dark:hover:text-orange-600 after:bg-orange-600 dark:text-white transition duration-500">Suna acum <i class="uil uil-arrow-right"></i></a>
+                                class="btn btn-link hover:text-yellow-600 dark:hover:text-yellow-600 after:bg-orange-600 dark:text-white transition duration-500">Suna acum <i class="uil uil-arrow-right"></i></a>
                         </div>
                     </div>
                 </div>

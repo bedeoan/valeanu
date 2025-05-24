@@ -10,14 +10,14 @@
                     <!-- Navbar Button -->
                     <ul class="list-none menu-social mb-0">
                         <li class="inline">
-                            <a href="" class="btn btn-sm btn-icon rounded-full bg-orange-600 hover:bg-orange-700 border-orange-600 hover:border-orange-700 text-white"><i class="uil uil-github"></i></a>
+                            <a href="" class="btn btn-sm btn-icon rounded-full bg-orange-600 hover:bg-yellow-700 border-orange-600 hover:border-orange-700 text-white"><i class="uil uil-github"></i></a>
                         </li>
                         <li class="inline">
-                            <a href="" class="btn btn-sm btn-icon rounded-full bg-orange-600 hover:bg-orange-700 border-orange-600 hover:border-orange-700 text-white"><i class="uil uil-twitter"></i></a>
+                            <a href="" class="btn btn-sm btn-icon rounded-full bg-orange-600 hover:bg-yellow-700 border-orange-600 hover:border-orange-700 text-white"><i class="uil uil-twitter"></i></a>
                         </li>
                         <li class="inline">
                             <a href="">
-                                <a href="" class="btn btn-sm btn-icon rounded-full bg-orange-600 hover:bg-orange-700 border-orange-600 hover:border-orange-700 text-white"><i class="uil uil-instagram"></i></a>
+                                <a href="" class="btn btn-sm btn-icon rounded-full bg-orange-600 hover:bg-yellow-700 border-orange-600 hover:border-orange-700 text-white"><i class="uil uil-instagram"></i></a>
                             </a>
                         </li>
                     </ul>

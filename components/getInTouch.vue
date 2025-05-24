@@ -2,7 +2,7 @@
       <section class="relative md:py-24 py-16 bg-gray-50 dark:bg-slate-800" id="contact">
             <div class="container">
                 <div class="grid grid-cols-1 pb-8 text-center">
-                    <h6 class="text-orange-600 text-base font-medium uppercase mb-2">Conducere</h6>
+                    <h6 class="text-yellow-600 text-base font-medium uppercase mb-2">Conducere</h6>
                     <h3 class="mb-4 md:text-2xl text-xl font-medium dark:text-white">Ing. Filip Vălean</h3>
 
                     <p class="text-slate-400 dark:text-slate-300 max-w-xl mx-auto">Acceptam programari telefonice sau prin aplicatia noastra de rezervari.</p>

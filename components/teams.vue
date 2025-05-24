@@ -25,7 +25,7 @@
                     <div
                         class="content absolute start-4 end-4 bottom-4 bg-white dark:bg-slate-900 opacity-0 group-hover:opacity-100 p-4 rounded-md text-center transition-all duration-500">
                         <a href=""
-                            class="h5 text-md dark:text-white hover:text-orange-600 dark:hover:text-orange-600 font-medium">{{ item.name }}</a>
+                            class="h5 text-md dark:text-white hover:text-yellow-600 dark:hover:text-yellow-600 font-medium">{{ item.name }}</a>
                         <h6 class="text-slate-400 dark:text-slate-300 mb-0 font-light">{{item.position}}</h6>
                     </div>
                 </div>

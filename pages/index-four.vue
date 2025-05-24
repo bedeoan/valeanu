@@ -17,7 +17,7 @@
                         class="btn bg-orange-600 hover:bg-orange-700 border-orange-600 hover:border-orange-700 text-white rounded-full me-1">Get
                         Started</a>
                     <a @click="toggle" data-type="youtube" data-id="S_CGed6E610"
-                        class="cursor-pointer btn btn-icon btn-lg bg-orange-600/5 hover:bg-orange-600 border-orange-600/10 hover:border-orange-600 text-orange-600 hover:text-white rounded-full lightbox"><i
+                        class="cursor-pointer btn btn-icon btn-lg bg-orange-600/5 hover:bg-orange-600 border-orange-600/10 hover:border-orange-600 text-yellow-600 hover:text-white rounded-full lightbox"><i
                             class="mdi mdi-play text-xl align-middle"></i></a><small
                         class="font-medium text-sm uppercase align-middle ms-2 dark:text-white/70">Watch Now</small>
                 </div>
