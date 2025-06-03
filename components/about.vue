@@ -33,16 +33,16 @@
               Compania noastra
             </h3>
 
-            <div class="text-slate-400 dark:text-slate-300 max-w-2xl mx-auto">
+            <div class="text-slate-600 dark:text-slate-300 max-w-2xl mx-auto">
               <div class="mb-4">
                 Valeanu Auto SRL, este o firmă care deține:
               </div>
 
               <div class="ml-4">
-                <div>Stație I.T.P. pentru autoturisme</div>
+                <div>1. Stație I.T.P. pentru autoturisme, 4x4, autoutilitare până la 3,5 t</div>
               <div class="mt-4">
-                Service Auto - autorizat R.A.R.
-                <span> Servicile noastre includ: </span>
+                2. Service Auto - autorizat R.A.R.
+                <div> Servicile noastre includ: </div>
               </div>
 
               <div class="ml-4">
@@ -52,12 +52,11 @@
                 <div>-Sistemul de direcție şi componente;</div>
                 <div>-Sistemul de frânare şi componente;</div>
                 <div>-Întreținerea vehiculelor rutiere.</div>
-                <div>-Manager Transport Marfă</div>
               </div>
             </div>
 
-            <div class="text-slate-400 mt-4">
-              Ofera servicii profesionale de manager transport marfa.
+            <div class="text-slate-600 mt-4">
+              3. Manager Transport Marfă
             </div>
               </div>
           </div>
