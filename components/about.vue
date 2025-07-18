@@ -39,26 +39,28 @@
               </div>
 
               <div class="ml-4">
-                <div>1. Stație I.T.P. pentru autoturisme, 4x4, autoutilitare până la 3,5 t</div>
-              <div class="mt-4">
-                2. Service Auto - autorizat R.A.R.
-                <div> Servicile noastre includ: </div>
-              </div>
+                <div>
+                  1. Stație I.T.P. pentru autoturisme, 4x4, autoutilitare până
+                  la 3,5 t
+                </div>
+                <div class="mt-4">
+                  2. Service Auto - autorizat R.A.R.
+                  <div>Servicile noastre includ:</div>
+                </div>
 
-              <div class="ml-4">
-                <div>-Motor, sisteme auxiliare şi componente;</div>
-                <div>-Sisteme de transmisie și componente;</div>
-                <div>-Sistemul de rulare şi componente;</div>
-                <div>-Sistemul de direcție şi componente;</div>
-                <div>-Sistemul de frânare şi componente;</div>
-                <div>-Întreținerea vehiculelor rutiere.</div>
+                <div class="ml-4">
+                  <div>-Motor, sisteme auxiliare şi componente;</div>
+                  <div>-Sisteme de transmisie și componente;</div>
+                  <div>-Sistemul de rulare şi componente;</div>
+                  <div>-Sistemul de direcție şi componente;</div>
+                  <div>-Sistemul de frânare şi componente;</div>
+                  <div>-Întreținerea vehiculelor rutiere.</div>
+                </div>
+                <div class="text-slate-600 mt-4">
+                  3. Manager Transport Marfă
+                </div>
               </div>
             </div>
-
-            <div class="text-slate-600 mt-4">
-              3. Manager Transport Marfă
-            </div>
-              </div>
           </div>
         </div>
         <!--end col-->

@@ -4,8 +4,8 @@
                 <div class="grid grid-cols-1 pb-8 text-center">
                     <h6 class="text-yellow-600 text-base font-medium uppercase mb-2">Conducere</h6>
                     <h3 class="mb-4 md:text-2xl text-xl font-medium dark:text-white">Ing. Filip Vălean</h3>
-
-                    <p class="text-slate-400 dark:text-slate-300 max-w-xl mx-auto">Acceptam programari telefonice sau prin aplicatia noastra de rezervari.</p>
+                    <a @click="callNow()" class="text-slate-400 mb-2">+40 749 030 964</a>
+                    <p class="text-slate-400 dark:text-slate-300 max-w-xl mx-auto">Vă puteți programa telefonic sau prin aplicația noastră de rezervări.</p>
                 </div><!--end grid-->
 
 
